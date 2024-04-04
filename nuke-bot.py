@@ -145,4 +145,4 @@ while True:
             continue
     elif choice == '2':
         print(f'{dr}Exit...')
-        exit()bohhqkx
+        exit()
